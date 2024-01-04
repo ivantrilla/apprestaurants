@@ -1,0 +1,44 @@
+name: supabase_example
+version: 1.0.0+1
+publish_to: none
+description: CRUD with Authentication and Authorization using GET X CLI and Supabase.
+environment:
+  sdk: ">=2.18.5 <3.10.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  supabase_flutter: 1.2.2
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.0.2
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.7
+  intl: ^0.19.0
+  intl_phone_number_input: ^0.7.3+1
+  image_picker: ^1.0.5
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - .env
+    - assets/photos/bread.png
+    - assets/photos/profile_photo.png
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/flutter_app.png"
+
+flutter_native_splash:
+  color: "#FBF3D4"
+  image: "assets/icon/flutter_app.png"
+
+  android_12:
+    color: "#FBF3D4"
+    image: "assets/icon/flutter_app.png"
