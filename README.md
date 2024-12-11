@@ -4,10 +4,6 @@
 
 [![SUPABASE](https://getlogo.net/wp-content/uploads/2020/11/supabase-logo-vector.png)](https://supabase.com/)
 
-[![FLUTTER](https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.png)](https://flutter.dev/)
-
-[![GETX](https://blog.kakaocdn.net/dn/tTJsy/btraPuKSP5Y/34aELwuQ5eWBta1trRneU1/img.png)](https://pub.dev/packages/get)
-
 ## Features
 
 - CRUD Notes (title, description)
@@ -90,11 +86,3 @@ Here are some related projects
 
 - Install flutter plugin for vscode
   [Flutter plugin](https://docs.flutter.dev/get-started/editor#:~:text=Install%20the%20Flutter%20and%20Dart,the%20list%2C%20and%20click%20Install.)
-
-## Screenshots
-
-[App Screenshot](https://drive.google.com/drive/folders/1cUHcP7KOGkT36TGOdDVEchq4PXQx_ex5)
-
-## Authors
-
-[@fridolinf](https://github.com/fridolinf)
